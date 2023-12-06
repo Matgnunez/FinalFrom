@@ -1,0 +1,14 @@
+.seccion{
+    background-color: #161414c1;
+    border: 2px solid #ed0707;
+    border: 1rem;
+    padding: 1rem;
+    margin: 2rem;
+    text-align: center;
+ 
+    color:#ebe0e0
+}
+
+.seccion img{
+    max-width: 95%;
+}

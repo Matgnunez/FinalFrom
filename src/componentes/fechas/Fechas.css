@@ -1,0 +1,24 @@
+.titulo{
+    font-size: 3.2em;
+    line-height: 1.1;
+  }
+  .texto{
+    font-size: 1.2em;
+    line-height: 1.1;
+  }
+
+  .imagen{
+    width: 200px;
+    height: 210px;
+  }
+@keyframes blink {
+    0%, 100% {opacity: 1;}
+    50% {opacity: 0;}
+  }
+
+  #comprar {
+    font-size: 2.2em;
+    line-height: 1.1;
+    animation: blink 2s linear infinite;
+  }
+  
